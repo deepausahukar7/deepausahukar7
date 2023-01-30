@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/deepak-sahukar-b34970242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="45" width="50" /></a>
-<!--   <a href="https://twitter.com/CPattanayak93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GandhamRaghavendra" height="50" width="70" /></a> -->
+<!--   <a href="https://twitter.com/CPattanayak93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Deepak Kumar Sahukar" height="50" width="70" /></a> -->
 </p>
 
 <hr />
