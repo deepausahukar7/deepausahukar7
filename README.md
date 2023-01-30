@@ -1,72 +1,58 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Deepak Kumar Sahukar</h1>
+<h3 align="center">Software Developer from Odisha(India)</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=white&width=650&height=80&lines=Java+Backend+Developer+;Passionate+To+Develop+Scalable+Products+;Always+Learning+New+Things+;Quick+Learner;&center=true&width=640&height=45&vCenter=true&size=25" />
+</p>
+
+<img align='right' src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="300" height='180'>
 
 
-<h3 align="center">
-Hi there, I'm <a href="https://www.deepausahukar7/" target="_blank" rel="noreferrer">Deepak</a> 👋
-</h3>
+- 💻 I’m a Java Backend Developer</hr>
 
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻, and Photographer 📸 !
-</h2> 
+- 🌱 I’m currently learning **Spring**,**Spring Boot**
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+- 💬 Ask me about Java, Javascript, HTML, CSS, MySQL, I am happy to help
 
-### 🤝 Connect with me:
+- 📫 Reach out to me on **deepusahukar18@gmail.com**
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 👨‍💻 All of my projects are available at [My Portfolio](https://deepausahukar7.github.io)
 
-## 🔭 I'm currently working on
+- 📄 Know About Me [My Resume](https://drive.google.com/file/d/1vsuLXDguPYR27OIeo6_R6qDf_ZCs9zO0/view?usp=share_link)
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- ⚡ In my leisure time, **I love to watch cricket**,**Play Video games**
 
-## 🌱 I'm currently learning
+<hr />
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/deepak-sahukar-b34970242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="45" width="50" /></a>
+<!--   <a href="https://twitter.com/CPattanayak93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GandhamRaghavendra" height="50" width="70" /></a> -->
+</p>
 
-## 💼 Technical Skills
+<hr />
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="75"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="58"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="75"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="75"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="60"/>  </a> </p>
 
-</br>
+<hr />
+<h3 align="center">Deepak's GitHub Stats:</h3>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepausahukar7&theme=black-ice&hide_border=true&stroke=0000&background=181818" alt="Deepak's Stats"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepausahukar7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=181818" alt="Deepak's Stats"/></p>
+
+<br/>
+<hr />
+
+<h3 align="center">Reach Out To Me On 👇</h3>
+  
+  <p align="center">
+    <a href="mailto:deepusahukar18@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/deepak-sahukar-b34970242/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+</p>
 
 
-</br>
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
-
-
-## 📈 GitHub Stats 
-
-[![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=deepausahukar7)](https://github.com/deepausahukar7)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepausahukar7&layout=compact)](https://github.com/deepausahukar7)
 
 
 <!--
