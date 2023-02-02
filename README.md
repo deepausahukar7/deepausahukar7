@@ -1,71 +1,78 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Deepak Kumar Sahukar</h1>
-<h3 align="center">Software Developer from Odisha(India)</h3>
+<h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</span>, My name is Vishal</h1>
+<h3 align="center">An Aspiring Full Stack Web Developer.</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=white&width=650&height=80&lines=Java+Backend+Developer+;Passionate+To+Develop+Scalable+Products+;Always+Learning+New+Things+;Quick+Learner;&center=true&width=640&height=45&vCenter=true&size=25" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<img align='right' src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="300" height='180'>
+---
 
-
-- 💻 I’m a Java Backend Developer</hr>
-
-- 🌱 I’m currently learning **Spring**,**Spring Boot**
-
-- 💬 Ask me about Java, Javascript, HTML, CSS, MySQL, I am happy to help
-
-- 📫 Reach out to me on **deepusahukar18@gmail.com**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://deepausahukar7.github.io)
-
-- 📄 Know About Me [My Resume](https://drive.google.com/file/d/1vsuLXDguPYR27OIeo6_R6qDf_ZCs9zO0/view?usp=share_link)
-
-- ⚡ In my leisure time, **I love to watch cricket**,**Play Video games**
-
-<hr />
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝Connect with me on:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deepak-sahukar-b34970242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="45" width="50" /></a>
-<!--   <a href="https://twitter.com/CPattanayak93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Deepak Kumar Sahukar" height="50" width="70" /></a> -->
-</p>
-
-<hr />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="75"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="58"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="75"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="75"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="60"/>  </a> </p>
-
-<hr />
-<h3 align="center">Deepak's GitHub Stats:</h3>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepausahukar7&theme=black-ice&hide_border=true&stroke=0000&background=181818" alt="Deepak's Stats"/></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepausahukar7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=181818" alt="Deepak's Stats"/></p>
-
-<br/>
-<hr />
-
-<h3 align="center">Reach Out To Me On 👇</h3>
+  <a href="https://www.linkedin.com/in/im-vishalanand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/im_vishalanand" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://discordapp.com/users/716544462997815347" target="_blank"><img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white"></a>
   
-  <p align="center">
-    <a href="mailto:deepusahukar18@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <a href="https://www.linkedin.com/in/deepak-sahukar-b34970242/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<!--   <a href="https://medium.com/@________"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
+</p>
+
+<img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
+
+## :man_technologist: About Me :
+I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :zap: In my free time, I read tech articles, read novels
+- 🌱 I’m currently learning **Java**
+- 👯 I will be happy to collaborate on **Web Development Projects**
+- 👯 I am also looking for some **Open Source Oppurtunities**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/deepausahukar7?tab=repositories)**
+- 🪢 Know more about me **[here](https://drive.google.com/file/d/1B8p6RcgLnU8Be-rHWxZReRytcJ-Rhh57/view?usp=share_link)**
+-  💬 Ask me about **HTML, CSS, JavaScript**
+- 📫 How to reach me **deepusahukar18@gmail.com**
+
+---
+
+## 🛠️Languages and Tools:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
 </p>
 
 
+## 📊 GitHub Stats:
+<p align="left">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepausahukar7&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="deepausahukar7" align="left"></a>
+</p>
 
+<p align="right">
+<a href="https://github.com/deepausahukar7?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=deepausahukar7&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="deepausahukar7 github-readme-stats"/></a>
+<a href="https://github.com/Im-vishalanand?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=deepausahukar7&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="deepausahukar7 github-readme-streak-stats"/></a>
+</p>
 
-<!--
-**deepausahukar7/deepausahukar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Im_vishalanand)](https://twitter.com/Im_vishalanand)
 
-Here are some ideas to get you started:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3>⚡Feel free to reach out. Always interested in some intriguing conversations!✌️</h3>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=deepausahukar7&style=flat-square&color=blue" alt=""/>
+</div>
+
+<!--![image](https://user-images.githubusercontent.com/108060013/211838121-d7c95a27-7472-470c-a969-d460548149c6.png)-->
+### Thanks for visiting! 😊
+
