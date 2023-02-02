@@ -1,5 +1,5 @@
 <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</span>, My name is Vishal</h1>
+</span>, My name is Deepak</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer.</h3>
 
 <div align="center">
@@ -10,9 +10,9 @@
 
 <h3 align="left">🤝Connect with me on:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/im-vishalanand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/im_vishalanand" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://discordapp.com/users/716544462997815347" target="_blank"><img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deepak-sahukar-b34970242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/sahukar_deepak" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+ 
   
 <!--   <a href="https://medium.com/@________"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
 </p>
@@ -59,8 +59,6 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 <a href="https://github.com/Im-vishalanand?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=deepausahukar7&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="deepausahukar7 github-readme-streak-stats"/></a>
 </p>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Im_vishalanand)](https://twitter.com/Im_vishalanand)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
