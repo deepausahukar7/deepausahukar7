@@ -30,7 +30,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 👨 Know more about me **[here](https://drive.google.com/file/d/1B8p6RcgLnU8Be-rHWxZReRytcJ-Rhh57/view?usp=share_link)**
 - 👨🏻‍🎓 My Portfolio **[Portfolio](https://deepausahukar7.github.io/)**
 -  💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me **deepusahukar18@gmail.com**
+- 📫 How to reach me `deepusahukar18@gmail.com`
 
 ---
 
