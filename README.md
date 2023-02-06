@@ -48,7 +48,9 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
 </p>
-
+<p align="left">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=deepausahukar7&theme=algolia" alt="deepausahukar7" />
+</p>
 
 ## 📊 GitHub Stats:
 <p align="left">
