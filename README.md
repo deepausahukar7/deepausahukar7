@@ -27,7 +27,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 👯 I will be happy to collaborate on **Web Development Projects**
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/deepausahukar7?tab=repositories)**
-- 👨 Know more about me **[here](https://drive.google.com/file/d/1B8p6RcgLnU8Be-rHWxZReRytcJ-Rhh57/view?usp=share_link)**
+- 👨 Know more about me **[here](https://drive.google.com/file/d/1NjEPDByOXs9x2lPKnWDd5WccIk5pxudj/view?usp=share_link)**
 - 👨🏻‍🎓 My Portfolio **[Portfolio](https://deepausahukar7.github.io/)**
 -  💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 How to reach me `deepusahukar18@gmail.com`
