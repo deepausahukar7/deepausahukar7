@@ -50,18 +50,20 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 </p>
 
 
-## 📊 GitHub Stats:
-<p align="left">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepausahukar7&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="deepausahukar7" align="left"></a>
-</p>
+ <div align="center">
+<h3 align="centre">GITHUB STATS<h3>
+   </div>
+    <p align="center">
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=deepausahukar7&show_icons=true&locale=en&theme=merko&hide_border=false">
+   </p>
+    <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=deepausahukar7&theme=merko&hide_border=false&date_format=j%20M%5B%20Y%5D">
+   </p>
+    <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepausahukar7&layout=compact&theme=merko">
+   </p>
 
-<p align="right">
-<a href="https://github.com/deepausahukar7?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=deepausahukar7&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="deepausahukar7 github-readme-stats"/></a>
-<a href="https://github.com/deepausahukar7?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=deepausahukar7&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="deepausahukar7 github-readme-streak-stats"/></a>
-</p>
-<p align="left">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=deepausahukar7&theme=algolia" alt="deepausahukar7" />
-</p>
+   <h1></h1>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
