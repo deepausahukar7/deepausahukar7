@@ -1,6 +1,6 @@
 <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </span>, My name is Deepak Kumar Sahukar</h1>
-<h3 align="center">An Aspiring Full Stack Web Developer.</h3>
+<h3 align="center">An Aspiring QA Automation Engineer.</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
 ## :man_technologist: About Me :
-I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am an aspiring QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :zap: In my free time, **I watch Movies**
 - 🌱 I’m currently learning **Java**
